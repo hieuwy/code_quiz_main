@@ -1,3 +1,4 @@
+// Questions for the quiz
 var codeQuiz = [
     {
         question: 'Which of the following is not a comparison operator?', 
@@ -130,7 +131,7 @@ var endQuiz = function() {
     quizEl.remove();
     scoreEl.remove();
  
-    endEl.innerHTML = "<h2 class='end-title'>That's all she wrote!</h2><p>Your final score is " + currentScore + ".  Please enter your name.</p>";
+    endEl.innerHTML = "<h2 class='end-title'>Good Job!</h2><p>Your final score is " + currentScore + ".  Please enter your name.</p>";
 
     var scoreForm = document.createElement("form");
     scoreForm.id = "score-form";
