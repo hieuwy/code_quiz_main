@@ -29,5 +29,5 @@ THEN I can save my initials and score
 ## Web Page
 ![Code Quiz](./assets/images/screenshot.png)
 
-[Deployed JavaScript Code Quiz]()
+[Deployed JavaScript Code Quiz](https://hieuwy.github.io/code_quiz_main/)
 
