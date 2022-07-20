@@ -31,8 +31,3 @@ THEN I can save my initials and score
 
 [Deployed JavaScript Code Quiz]()
 
-## Task List
-- [ ] Add more questions.
-- [x] Add media query optimization.
-- [ ] Refactor code.
-
